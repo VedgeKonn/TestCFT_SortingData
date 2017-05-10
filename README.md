@@ -12,8 +12,8 @@ Examples of commands:
 4) java SortingData in.txt out.txt -s -d
 
 Where, 
-"SortingData" - name of application
-"in.txt"      - name of input file
-"out.txt"     - name of output file
-"-i" or "-s"  - parameters for whole numbers or for strings in file
-"-a" or "-d"  - parameters for ascending or descending sort
+"SortingData" - name of application;
+"in.txt"      - name of input file;
+"out.txt"     - name of output file;
+"-i" or "-s"  - parameters for whole numbers or for strings in file;
+"-a" or "-d"  - parameters for ascending or descending sort.
